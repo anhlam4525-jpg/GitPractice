@@ -18,3 +18,5 @@
 
 Đây là Repository thực hành Git và GitHub trong Buổi 2.
 
+## Buoi 2
+Thuc hanh Git va GitHub.
